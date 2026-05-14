@@ -183,7 +183,7 @@ Open Jupyter Notebook and execute the analysis:
 ```bash
 jupyter notebook
 ```
----
+
 Ensure that all datasets are located in the data/ directory before running the notebooks.
 ---
 
@@ -199,14 +199,4 @@ Email: katsojohnobotsang@gmail.com
 
 This project is licensed under the MIT License.
 
-You are free to:
-
-Use this project
-Modify the code
-Distribute copies
-Build upon it for research or commercial use
-
-Provided that proper attribution is given.
-
-For full license details, see:
-https://opensource.org/licenses/MIT
+See the full license here: [LICENSE](LICENSE)
