@@ -201,4 +201,4 @@ Email: katsojohnobotsang@gmail.com
 
 This project is licensed under the MIT License.
 
-See the full license here: [LICENSE](LICENSE)
+See the full license here: [MIT License](LICENSE)
