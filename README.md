@@ -184,13 +184,15 @@ Open Jupyter Notebook and execute the analysis:
 jupyter notebook
 ```
 
-Ensure that all datasets are located in the data/ directory before running the notebooks.
----
+
+
+Ensure that all datasets are located in the `data/` directory before running the notebooks.
+
 
 ## 15. Author
 
-Katso John Obotsang
-Machine Learning | Quantitative Methods | AI Research
+Katso John Obotsang<br>
+Machine Learning | Quantitative Methods | AI Research<br>
 Email: katsojohnobotsang@gmail.com
 
 ---
